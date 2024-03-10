@@ -1,0 +1,54 @@
+.categori {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+
+.detektiv h2 {
+    position: absolute;
+    top: 252px;
+    color: #ffffff;
+    right: 68pc;
+}
+
+.bbb {
+    height: 196px;
+    object-fit: cover;
+    width: 286px;
+    border-radius: 10px;
+}
+
+.images {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.detektiv1 {
+    position: absolute;
+    top: 252px;
+    color: white;
+    right: 47pc;
+}
+
+.detektiv2 {
+    position: absolute;
+    right: 410px;
+    top: 252px;
+    right: 26pc;
+    color: white;
+}
+
+.detektiv3 {
+    position: relative;
+    top: 213px;
+    right: 170px;
+    color: white;
+}
+
+.categori h1 {
+    color: #010049;
+    margin: 35px 0;
+}
