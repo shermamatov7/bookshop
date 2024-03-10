@@ -3,10 +3,6 @@ import './Header.css'
 import { GoSearch } from "react-icons/go";
 import { RiAdminLine } from "react-icons/ri";
 import { SlBasket } from "react-icons/sl";
-
-
-
-
 const Header = () => {
     return (
         <div id="header">
@@ -18,14 +14,14 @@ const Header = () => {
                         <GoSearch className='search' />
                     </div>
                     <div className="header-admin-korzina">
-                        <SlBasket/>
+                        <SlBasket />
                         <RiAdminLine />
                     </div>
-                    {/* hhhhhh */}
                 </div>
             </div>
         </div>
     );
 };
-
 export default Header;
+
+

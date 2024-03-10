@@ -1,0 +1,40 @@
+.book1 {
+    display: flex;
+    right: 40px;
+}
+
+.boook {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+
+.book44 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+
+.book44 h1 {
+    color: #010049;
+    margin: 40px 0;
+}
+
+.book44 input {
+    width: 200px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.icon {
+    position: absolute;
+    left: 74.5pc;
+}
+
+.backet {
+    position: relative;
+    left: 100px;
+    top: 5px;
+}
