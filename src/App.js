@@ -3,6 +3,7 @@ import Header from './components/Header/Header';
 import Hero from './pages/Hero/Hero';
 import Categori from './pages/Categori/Categori';
 import Line from './pages/Line/line.jsx'
+import Basket from './pages/Basket/index.jsx';
 
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <Hero />
       <Categori />
       <Line />
+      <Basket />
     </div>
   );
 }

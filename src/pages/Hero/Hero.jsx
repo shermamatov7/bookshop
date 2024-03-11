@@ -1,6 +1,5 @@
 import React from 'react';
 import './Hero.css'
-import logo from '../../images/logo.svg'
 const Hero = () => {
     return (
         <div id="hero" style={{
